@@ -1,0 +1,14 @@
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.exe
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.deps.json
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.runtimeconfig.json
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.runtimeconfig.dev.json
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.dll
+D:\Сашино не трогать\boots\boots\bin\Debug\netcoreapp3.1\boots.pdb
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.csproj.AssemblyReference.cache
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.AssemblyInfoInputs.cache
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.AssemblyInfo.cs
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.csproj.CoreCompileInputs.cache
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.dll
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.pdb
+D:\Сашино не трогать\boots\boots\obj\Debug\netcoreapp3.1\boots.genruntimeconfig.cache
